@@ -10,14 +10,17 @@ The overall timetable towards pilot is below. The dates given in the image might
 
 Consortium Workshop 1 and 2
 --------------
+Consortium workshop 1 starts the public work towards Finnish Edutech Consortium. Every Edutech company is welcome to participate in the process for a modest fee. Fees are fixed in the near future and announced here. The resources gathered from given fees are used in Pilviväylä Basaar development. Basaar is the "webshop" element in the service.  
 
 
 Pilviväylä Pilot Design Day 1 and 2
 --------------
+- 
+
 
 X-Road Developer Day
 --------------
-
+- 
 
 X-Road Pilot Day 
 --------------
